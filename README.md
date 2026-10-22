@@ -7,7 +7,7 @@ I am a passionate software developer who loves bridging the gap between beautifu
 - 🌱 **I’m currently learning:** Advanced Flutter State Management & API Integrations.
 - 🤝 **I’m looking to collaborate on:** Open-source projects, Web apps, or Flutter applications.
 - 💬 **Ask me about:** Flutter, Dart, Web Development, API Integrations, and Git.
-- 📫 **How to reach me:** [Your Email Here] or connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 **How to reach me:** wycliffrugendo@gmail.com or connect with me on https://www.linkedin.com/in/wycliff-nthiga-a72a6a305?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
