@@ -15,7 +15,7 @@ I am a **Software Developer** and a **Computer Science Graduate**, specializing 
 - 🌱 **I’m currently learning:** Advanced Cloud Architecture (AWS) and C# backend systems.
 - 🎓 **Education:** Degree in Computer Science (Software Developer Major).
 - 💬 **Ask me about:** Flutter, Web Development, Python, API Integrations, and Git.
-- 📫 **How to reach me:** [wycliffrugendo@gmail.com](mailto:wycliffrugendo@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/wycliff-nthiga-a72a6a305/)
+- 📫 **How to reach me:** [wycliffrugendo@gmail.com](mailto:wycliffrugendo@gmail.com) or connect on [LinkedIn][(https://www.linkedin.com/in/wycliff-nthiga-a72a6a305/)](https://www.linkedin.com/in/wycliff-nthiga-a72a6a305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6%2F%2Be9aNiQ36UEaGWgKGbUA%3D%3D)
 
 ---
 
